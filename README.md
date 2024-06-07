@@ -34,6 +34,7 @@ Minhas credenciais incluem  bacharel em ciência da computação ainda em curso 
 Projetos desenvolvidos:
 
 * **Analise de dados do Airbnb:**  https://bit.ly/3ZSA8J4
+* **Classificação do Conjunto de Dados Íris** https://github.com/JpLimags/Classifier_Iris
 
 
 ---
