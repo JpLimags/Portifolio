@@ -35,6 +35,7 @@ Projetos desenvolvidos:
 
 * **Analise de dados do Airbnb:**  https://bit.ly/3ZSA8J4
 * **Classificação do Conjunto de Dados Íris** https://github.com/JpLimags/Classifier_Iris
+* **Predição da demanda de bicicletas em Seoul** https://github.com/JpLimags/seoul_bike_sharing_demand
 
 
 ---
