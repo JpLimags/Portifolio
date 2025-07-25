@@ -1,6 +1,6 @@
 # Portfólio
 
-[![author](https://img.shields.io/badge/author-jplimag-red.svg)](https://www.linkedin.com/in/jplimag/) 
+[![author](https://img.shields.io/badge/author-jplimag-red.svg)](https://www.linkedin.com/in/jplimag-datascience/) 
 [![](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JpLimags)
@@ -37,7 +37,7 @@ Sou bacharelando em Ciência da Computação pelo IFCE – Instituto Federal do 
 `Python`, `Análise de Dados`, `Machine Learning`, `ETL`, `Modelos Preditivos`, `Visualização de Dados`.
 
 ### **Links Úteis:**
-* [LinkedIn](https://www.linkedin.com/in/jplimag/)
+* [LinkedIn](https://www.linkedin.com/in/jplimag-datascience/)
 * [GitHub](https://github.com/JpLimags)
 
 ---
